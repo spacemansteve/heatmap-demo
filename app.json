@@ -1,0 +1,8 @@
+{
+  "name": "Heatmap demo",
+  "description": "A barebones heatmap demo based on heroku example",
+  "repository": "https://github.com/spacemansteve/heatmap-demo",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
